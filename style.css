@@ -552,12 +552,14 @@ header h1 {
     transition:
     transform 0.25s ease,
     color 0.25s ease;
+    transition: background-color 0.3s ease;
 }
 
 .contact-btn {
     transition:
     transform 0.25s ease,
     color 0.25s ease;
+    transition: background-color 0.3s ease;
 }
 
 .ul a:hover {
