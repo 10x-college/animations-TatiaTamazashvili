@@ -547,3 +547,23 @@ header h1 {
   transform: scale(1.1);
   color: #ffffff;
 }
+
+.ul a {
+    transition:
+    transform 0.25s ease,
+    color 0.25s ease;
+}
+
+.contact-btn {
+    transition:
+    transform 0.25s ease,
+    color 0.25s ease;
+}
+
+.ul a:hover {
+    background-color: #AE9B84;
+}
+
+.contact-btn:hover {
+    background-color: #AE9B84;
+}
